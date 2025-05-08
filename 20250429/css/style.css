@@ -1,0 +1,31 @@
+body {
+    border: rgb(123, 0, 255) dashed 5px;
+     padding:1rem;
+    }
+    header {
+        border: solid rgb(243, 11, 204) 5px;
+    }
+    nav{
+        border: 1px rgb(211, 5, 5) solid;
+        border-radius: 1rem;
+    }
+    ul{
+        list-style: nome;
+    }   
+    li{
+        background-color: rgb(255, 217, 0);
+        display: inline; padding: 1rem;
+    }
+    nav{
+        text-decoration: none;
+    }
+    main {
+        border: dotted 7px rgb(221, 37, 23); 
+        padding: 1rem;
+        margin: 1rem;
+    }
+    footer{
+        background-color: rgb(113, 241, 15);
+        color: rgb(226, 11, 255);
+    }
+    p { text-align: justify;}
